@@ -1,44 +1,39 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![icon](https://user-images.githubusercontent.com/54114888/117773198-a713f780-b255-11eb-9077-ad8627c2931f.png)
+# TypeColab
 
-## Available Scripts
+## 📑 Description:
+The "TypeColab" is a Collaborative Text Editor. If a user is using the website, another user can join with the same URL and they will be added into the same room and can type simultaneously in the single editor. Currently it supports only two users in a single room. It also has features to make the Text style in Bold, Italics and Underline them.
 
-In the project directory, you can run:
+## 📽 Sample Demo:
+https://user-images.githubusercontent.com/54114888/117577713-868a5700-b108-11eb-8e60-be1c864354dc.mp4
 
-### `npm start`
+## 🏗 Built with:
+- Socket.io.
+- Typescript.
+- Quill Text Editor.
+- React.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 👦 Developed By:
+- Akash Ramjyothi.
+- Email ID: akash.ramjyothi@gmail.com
+- PH: +91 8939928002.
+- LinkedIn: https://www.linkedin.com/in/akash-ramjyothi/
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## 🌐 Reference Used:
+- https://www.youtube.com/watch?v=CmuUQymjbRo
+- https://blog.logrocket.com/build-a-google-doc-clone-with-html-css-and-javascript/
+- https://dev.to/rishabhmalhotraa/i-made-google-docs-clone-but-with-a-twist-l04
+- https://www.reddit.com/r/node/comments/94o83j/thoughts_one_best_way_to_create_a_google_docs/
 
-### `npm test`
+## 🧪 Steps to Use/ Test the extension:
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Download and Unzip the file.
+- Choose the type of test device you need:
+    Apps—Sign in to your Google Account on a Chrome device.
+    Extensions—Sign in to your Google Account on a Chrome device or Chrome Browser on a Windows®, Mac®, or Linux® computer.
+- Save the app or extension folder on your test device.
+- Go to chrome://extensions/.
+- At the top right, turn on Developer mode.
+- Click Load unpacked.
+- Find and select the app or extension folder.
+- Open a new tab in Chromeand thenclick Appsand thenclick the app or extension. Make sure it loads and works correctly.  
