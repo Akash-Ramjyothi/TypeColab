@@ -8,7 +8,7 @@ The "TypeColab" is a Collaborative Text Editor. If a user is using the website, 
 https://typecolab.netlify.app/
 
 ## 📽 Sample Demo:
-https://user-images.githubusercontent.com/54114888/117577713-868a5700-b108-11eb-8e60-be1c864354dc.mp4
+https://user-images.githubusercontent.com/54114888/117778771-9d8d8e00-b25b-11eb-8cf2-0b5539f95f63.mp4
 
 ## 🏗 Built with:
 - Socket.io.
